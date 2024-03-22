@@ -23,7 +23,7 @@ Ce projet est une application de calculatrice développée en utilisant JavaFX, 
 1. Cloner ce dépôt sur votre machine locale :
 
     ```
-    git clone https://github.com/votre-utilisateur/calculatrice-javafx.git
+   git clone https://github.com/Goldenboy74/Calculatrice_Java.git
     ```
 
 2. Ouvrir le projet dans votre environnement de développement Java.
@@ -46,4 +46,3 @@ Ce projet est libre.
 
 ---
 
-N'oubliez pas de personnaliser les sections marquées comme `[Ajoutez votre nom ici]` et `[insérez votre licence ici]` avec vos propres informations. De plus, assurez-vous d'inclure une capture d'écran réelle de votre application de calculatrice (remplacez `screenshot.png` par le nom de votre fichier de capture d'écran).
